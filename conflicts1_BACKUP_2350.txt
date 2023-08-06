@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+
+hi = hi this is conflicts
+
+=======
+hi = hi in sunilWF 
+>>>>>>> sunilWF
